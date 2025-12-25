@@ -3,9 +3,9 @@
 ## Project Overview
 
 The dashboard focuses on:
-- **Sales & Quantity Trends**: Line charts showing how total sales and units sold evolve over time, with drill-down from year → quarter → month.
-- **Category & Product Analysis**: Bar/column charts highlighting top-performing categories and products by revenue, quantity sold, and order frequency.
-- **Executive KPIs**: Cards displaying Total Sales, Total Orders, and Average Order Value for a quick overview.
+ **Sales & Quantity Trends**: Line charts showing how total sales and units sold evolve over time, with drill-down from year → quarter → month.
+ **Category & Product Analysis**: Bar/column charts highlighting top-performing categories and products by revenue, quantity sold, and order frequency.
+ **Executive KPIs**: Cards displaying Total Sales, Total Orders, and Average Order Value for a quick overview.
 
 ## Dataset
 
@@ -15,7 +15,7 @@ The dashboard focuses on:
   - Product description
   - Unit Price, and Sales
   - Order Date
-- Data has been **cleaned and transformed** in Power BI using Power Query, including creation of calculated columns and key measures.
+- Data has been **cleaned and transformed** in Power BI using Power Query, including creation of calculated columns and key measures (ecommerce_trade_analysis.pbix)
 
 ## Features
 
@@ -24,12 +24,12 @@ The dashboard focuses on:
 - Measures for Total Sales, Total Orders, Average Order Value, and Total Quantity  
 - Clean, professional formatting suitable for portfolio demonstration  
 
-## How to Use
+## Useage
 
 1. Open the `.pbix` file in **Power BI Desktop**  
 2. Explore the **KPIs on the first page**  
 3. Navigate to the **second page** to view trend and category/product charts  
-4. Hover over visuals to see additional metrics and use drill-down on line charts for deeper analysis
+4. Hover over visuals to see additional metrics and use drill down on line charts for deeper analysis
 
 ## Portfolio Value
 
