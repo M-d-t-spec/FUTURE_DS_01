@@ -3,9 +3,9 @@
 ## Project Overview
 
 The dashboard focuses on:
- **Sales & Quantity Trends**: Line charts showing how total sales and units sold evolve over time, with drill-down from year → quarter → month.
- **Category & Product Analysis**: Bar/column charts highlighting top-performing categories and products by revenue, quantity sold, and order frequency.
- **Executive KPIs**: Cards displaying Total Sales, Total Orders, and Average Order Value for a quick overview.
+- **Sales & Quantity Trends**: Line charts showing how total sales and units sold evolve over time, with drill-down from year → quarter → month.
+- **Category & Product Analysis**: Bar/column charts highlighting top-performing categories and products by revenue, quantity sold, and order frequency.
+ - **Executive KPIs**: Cards displaying Total Sales, Total Orders, and Average Order Value for a quick overview.
 
 ## Dataset
 
