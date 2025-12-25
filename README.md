@@ -24,7 +24,7 @@ The dashboard focuses on:
 - Measures for Total Sales, Total Orders, Average Order Value, and Total Quantity  
 - Clean, professional formatting suitable for portfolio demonstration  
 
-## Useage
+## Usage
 
 1. Open the `.pbix` file in **Power BI Desktop**  
 2. Explore the **KPIs on the first page**  
