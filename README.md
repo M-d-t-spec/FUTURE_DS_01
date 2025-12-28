@@ -19,7 +19,7 @@ The dashboard focuses on:
 
 ## Features
 
-- Drill-down functionality on time trends 
+- Drill down functionality on time trends 
 - Interactive visuals for trade study and category comparison  
 - Measures for Total Sales, Total Orders, Average Order Value, and Total Quantity  
 - Clean, professional formatting suitable for portfolio demonstration  
